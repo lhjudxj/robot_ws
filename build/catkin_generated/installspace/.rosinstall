@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hnu/robot_ws/install/setup.sh

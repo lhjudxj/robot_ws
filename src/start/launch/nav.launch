@@ -1,0 +1,9 @@
+<launch>
+    <!-- 集成地图服务 -->
+    <include file="$(find start)/launch/map_server.launch"/>
+    <!-- 集成定位实现 -->
+    <include file="$(find start)/launch/amcl.launch"/>
+    <!-- 集成路径规划 -->
+    <include file="$(find start)/launch/move_base.launch"/>
+    
+</launch>

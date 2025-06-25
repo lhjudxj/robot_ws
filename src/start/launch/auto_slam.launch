@@ -1,0 +1,5 @@
+<launch>
+    <!-- 集成slam与move_base -->
+    <node pkg="gmapping" type="slam_gmapping" name="gmapping"  output="screen">
+    <include file="$(find start)/launch/move_base.launch">
+</launch>

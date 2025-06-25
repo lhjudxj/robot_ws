@@ -1,0 +1,10 @@
+(cl:defpackage ranger_msgs-srv
+  (:use )
+  (:export
+   "TRIGGERPARKMODE"
+   "<TRIGGERPARKMODE-REQUEST>"
+   "TRIGGERPARKMODE-REQUEST"
+   "<TRIGGERPARKMODE-RESPONSE>"
+   "TRIGGERPARKMODE-RESPONSE"
+  ))
+

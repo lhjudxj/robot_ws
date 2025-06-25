@@ -1,0 +1,2 @@
+ranger_ros/ranger_base:ranger_ros/ranger_bringup:ranger_ros/ranger_msgs:ros_multi_target_navigation:rplidar_ros:slam_gmapping/gmapping:slam_gmapping/slam_gmapping:start:tf_static:ugv_sdk
+-DCATKIN_DEVEL_PREFIX=/home/hnu/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hnu/robot_ws/install -G Unix Makefiles

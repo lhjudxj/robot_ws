@@ -1,0 +1,14 @@
+goal_poses:
+  - {x: 2.921, y: 1.004, theta: -0.032}
+  - {x: 2.991, y: 5.040, theta: 0.009}
+  - {x: -2.2694, y: 4.52964, theta: 1.5784}
+  - {x: 0.012765, y: -0.0018, theta: 0.00017}
+
+pose_number: 4
+
+position_tolerance: 0.005 # 位置误差容忍阈值（米）
+
+angle_tolerance_deg: 10.0 # 角度误差容忍阈值（度）
+
+loop_navigation: false  # 设置为true启用循环导航，设置为false禁用循环
+
